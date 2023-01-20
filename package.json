@@ -53,7 +53,7 @@
     "@ngrx/entity": "10.0.0",
     "@ngrx/router-store": "10.0.0",
     "@ngrx/store": "10.0.1",
-    "@nrwl/angular": "10.3.2",
+    "@nrwl/angular": "10.4.15",
     "concurrently": "^5.3.0",
     "json-server": "^0.16.2",
     "reflect-metadata": "^0.1.13",
